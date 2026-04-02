@@ -14,12 +14,16 @@ out/
 # C# / .NET
 bin/
 obj/
+.vs/
+TestResults/
 *.pdb
 *.mdb
 *.pidb
 *.user
+*.rsuser
 *.userprefs
 *.suo
+*.sln.docstates
 *.nupkg
 packages/
 *.snk
