@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../QLSinhVien/QLSinhVien.csproj" />
+  <Project Path="EOrder.csproj" />
+</Solution>
