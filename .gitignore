@@ -1,0 +1,97 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Build outputs
+dist/
+build/
+out/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# C# / .NET
+bin/
+obj/
+*.pdb
+*.mdb
+*.pidb
+*.user
+*.userprefs
+*.suo
+*.nupkg
+packages/
+*.snk
+project.lock.json
+.nuget/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache/
+*.cache
+__pycache__/
+*.py[cod]
+.sass-cache/
+
+# Compiled files
+*.class
+*.o
+*.obj
+*.pdf
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Package files
+*.jar
+*.war
+*.rar
+*.zip
+*.tar.gz
+
+# LaTeX auxiliary files (common for course notes)
+*.aux
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.out
+*.bbl
+*.blg
